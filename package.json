@@ -1,0 +1,22 @@
+{
+  "name": "pc-first-node-package",
+  "version": "0.0.0",
+  "description": "Power Chang's first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Power8Chang/pc-first-node-package.git"
+  },
+  "keywords": [
+    "first Node.js",
+    "testing"
+  ],
+  "author": "Power Chang <power.chang@aicipc.com.tw>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Power8Chang/pc-first-node-package/issues"
+  }
+}
